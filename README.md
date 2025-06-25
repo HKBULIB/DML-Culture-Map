@@ -2,7 +2,9 @@
 
 # DML Hong Kong Culture Map (IMD)
 
-Dataset of DML Hong Kong Culture Map (IMD)
+## Those are the Library maintained data columns
+Other additional columns not shown here
+
 |	Field Name	|	Mandatory / Optional	|	Remarks	|	Examples	|
 |	---	|	---	|	---	|	---	|
 |	id	|	M	|	An 3 letters - 6 digits	unique identifier |	TUP-000001	|
